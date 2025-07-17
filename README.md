@@ -1,4 +1,4 @@
-# Etch-a-Sketch
+# Etch-a-Sketch: https://felix-232.github.io/Etch-a-Sketch/
 ## My version of the Etch-a-Sketch exercise from [TheOdinProject](https://www.theodinproject.com).
 
 This app lets you fill up to 10,000 squares individually with randomly generated colors.
